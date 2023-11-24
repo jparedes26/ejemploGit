@@ -1,0 +1,54 @@
+.contenedorPrincipal{
+    background-color: rgb(224, 223, 223);
+    width: 500px;
+    height: 600px;margin-left: 500px;
+    border-radius: 10px;
+   
+}
+
+.contenedorLogo{
+   align-content: center;
+   text-align: center;
+   margin-top: 20px;
+   
+}
+
+.textoInicial{
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.datos{
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    margin: 5px;
+    
+}
+
+.checkbox{
+    margin: 10px;
+    align-items: center;
+}
+
+.button{
+    background-color: #3579ed;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+
+.button:hover{
+    background-color: #265cc7;
+}
+
+.fecha{
+    margin-top: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+}
